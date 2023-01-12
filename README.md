@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mvrty00
-- 👀 I’m interested in C#
-- 🌱 I’m currently learning MySQL, C#
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning SQL, Javascript
 - 📫 How to reach me maresmartin2000@gmail.com
