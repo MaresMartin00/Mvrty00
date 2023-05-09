@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mvrty00
+- 👋 Hi, I’m @Martin00
 - 👀 I’m interested in JavaScript
 - 🌱 I’m currently learning SQL, Javascript
 - 📫 How to reach me maresmartin2000@gmail.com
